@@ -219,7 +219,7 @@ export const AboutSection = () => {
   const stats = [
     { label: "Problems Solved", suffix: "+" },
     { label: "Projects", suffix: "+" },
-    { label: "Contest", suffix: "+" },
+    { label: "Contest Given", suffix: "+" },
   ];
 
   return (
