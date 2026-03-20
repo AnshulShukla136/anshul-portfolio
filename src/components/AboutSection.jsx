@@ -159,7 +159,7 @@ export const AboutSection = () => {
 
   useEffect(() => {
     if (!inView) return;
-    const targets = [400, 3, 10];
+    const targets = [400, 3, 30];
     targets.forEach((target, i) => {
       let start = 0;
       const step = Math.ceil(target / (1800 / 16));
@@ -207,8 +207,8 @@ export const AboutSection = () => {
     },
     {
       icon: <Briefcase className="h-5 w-5" />,
-      title: "Project Management",
-      desc: "Leading projects from conception to completion with agile methodologies.",
+      title: "Problem Solving",
+      desc: "Strong problem-solving skills using logic, algorithms, and efficient analytical thinking.",
       border: "border-l-[#b34700]",
       iconBg: "bg-[#b34700]/10",
       iconBorder: "border-[#b34700]/30",
@@ -219,7 +219,7 @@ export const AboutSection = () => {
   const stats = [
     { label: "Problems Solved", suffix: "+" },
     { label: "Projects", suffix: "+" },
-    { label: "Clients", suffix: "+" },
+    { label: "Contest", suffix: "+" },
   ];
 
   return (
@@ -277,7 +277,7 @@ export const AboutSection = () => {
             </p>
 
             <p className="font-mono text-muted-foreground">
-              Strong in DSA and Problem Solving
+              Strong DSA and Problem Solving
             </p>
 
             {/* Stats */}
