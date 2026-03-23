@@ -6,4 +6,4 @@ My other projects link:
 
 [https://language-transator.vercel.app/](url)
 
-[https://flood-monitoring-system-vtnh.vercel.app/](url)
+https://flood-monitoring-system-vtnh.vercel.app/
