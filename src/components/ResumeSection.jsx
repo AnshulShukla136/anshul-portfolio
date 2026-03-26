@@ -125,7 +125,7 @@ export const ResumeSection = () => {
                     Full Stack Developer · MERN Stack
                   </p>
                   <p className="font-mono text-sm text-muted-foreground max-w-md leading-relaxed">
-                    Experienced in React, Node.js, MongoDB 
+                    For more information, download resume.
                   </p>
                 </div>
               </div>
