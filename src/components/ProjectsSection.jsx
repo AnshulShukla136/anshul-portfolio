@@ -26,7 +26,7 @@ const projects = [
     id: 3,
     title: "Language Translator bot",
     description:
-      "AI powered languagfe translator bot that helps you to change language",
+      "AI powered language translator bot that helps you to translate language",
     image: "/achievements/languagetrans.png",
     tags: ["HTML5", "CSS3", "javascript"],
     demoUrl: "https://language-transator.vercel.app/",
