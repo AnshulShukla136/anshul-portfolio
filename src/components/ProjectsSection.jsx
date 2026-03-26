@@ -24,9 +24,9 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Language Translator bot",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "AI powered languagfe translator bot that helps you to change language",
     image: "/achievements/languagetrans.png",
     tags: ["HTML5", "CSS3", "javascript"],
     demoUrl: "https://language-transator.vercel.app/",
