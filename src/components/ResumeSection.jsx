@@ -143,7 +143,7 @@ export const ResumeSection = () => {
 
                 {/* View */}
                 
-                 <a href="/resume.pdf"
+                 <a href="/resume1.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-inter group relative flex items-center gap-2 px-7 py-3
@@ -168,7 +168,7 @@ export const ResumeSection = () => {
 
                 {/* Download */}
                 
-                 <a href="/resume.pdf"
+                 <a href="/resume1.pdf"
                   download
                   className="font-inter relative flex items-center gap-2 px-7 py-3
                     rounded-lg overflow-hidden transition-all duration-300"

@@ -7,7 +7,7 @@ const platforms = [
   {
     name: "Codeforces",
     handle: "as.anshulshukla",
-    desc: "Competitive programming platform where I practice algorithms, participate in contests, and improve problem-solving skills.",
+    desc: "On Codeforces I practice DSA and Maths problems along with Competitive Coding Contests",
     href: "https://codeforces.com/profile/as.anshulshukla",
     logo: "https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png",
     color: "#1a8cff",
@@ -22,7 +22,7 @@ const platforms = [
     href: "https://leetcode.com/as_anshul",
     logo: "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png",
     color: "#FFA116",
-    stat: "325+",
+    stat: "400+",
     statLabel: "Problems",
     invertLogo: true,
   },
