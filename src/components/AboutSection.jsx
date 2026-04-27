@@ -159,7 +159,11 @@ export const AboutSection = () => {
 
   useEffect(() => {
     if (!inView) return;
+<<<<<<< HEAD
     const targets = [400, 3, 10];
+=======
+    const targets = [400, 3, 30];
+>>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b
     targets.forEach((target, i) => {
       let start = 0;
       const step = Math.ceil(target / (1800 / 16));
@@ -207,8 +211,13 @@ export const AboutSection = () => {
     },
     {
       icon: <Briefcase className="h-5 w-5" />,
+<<<<<<< HEAD
       title: "Project Management",
       desc: "Leading projects from conception to completion with agile methodologies.",
+=======
+      title: "Problem Solving",
+      desc: "Strong problem-solving skills using logic, algorithms, and efficient analytical thinking.",
+>>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b
       border: "border-l-[#b34700]",
       iconBg: "bg-[#b34700]/10",
       iconBorder: "border-[#b34700]/30",
@@ -219,7 +228,11 @@ export const AboutSection = () => {
   const stats = [
     { label: "Problems Solved", suffix: "+" },
     { label: "Projects", suffix: "+" },
+<<<<<<< HEAD
     { label: "Clients", suffix: "+" },
+=======
+    { label: "Contest Given", suffix: "+" },
+>>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b
   ];
 
   return (
@@ -277,7 +290,11 @@ export const AboutSection = () => {
             </p>
 
             <p className="font-mono text-muted-foreground">
+<<<<<<< HEAD
               Strong in DSA and Problem Solving
+=======
+              Strong DSA and Problem Solving
+>>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b
             </p>
 
             {/* Stats */}

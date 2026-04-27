@@ -24,11 +24,19 @@ const projects = [
   },
   {
     id: 3,
+<<<<<<< HEAD
     title: "E-commerce Platform",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
     image: "/achievements/languagetrans.png",
     tags: ["HTML5", "CSS3", "JAVASCRIPT"],
+=======
+    title: "Language Translator bot",
+    description:
+      "AI powered language translator bot that helps you to translate language",
+    image: "/achievements/languagetrans.png",
+    tags: ["HTML5", "CSS3", "javascript"],
+>>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b
     demoUrl: "https://language-transator.vercel.app/",
     githubUrl: "https://github.com/AnshulShukla136/Language-Transator",
   },
@@ -287,4 +295,8 @@ export const ProjectsSection = () => {
       </div>
     </section>
   );
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b

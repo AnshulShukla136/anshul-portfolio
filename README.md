@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build a Modern Portfolio Website with React & TailwindCSS
 
 <div align="center">
@@ -131,3 +132,14 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 ---
 
 Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
+=======
+Hi, I am Anshul Shukla and this is ny professional portfolio.
+Link - https://anshul-shukla.vercel.app/
+
+My other projects link: 
+https://lpualumnik23df.infy.uk/
+
+https://language-transator.vercel.app/
+
+https://flood-monitoring-system-vtnh.vercel.app/
+>>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b

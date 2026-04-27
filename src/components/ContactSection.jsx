@@ -233,4 +233,8 @@ export const ContactSection = () => {
       </div>
     </section>
   );
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b
