@@ -17,7 +17,7 @@ const projects = [
     id: 2,
     title: "DevTrack: Developer Analytics Platform",
     description:
-      "You can analyze your GitHub, LeetCode and codeforces accounr at one place with recommendations",
+      "You can analyze your GitHub, LeetCode and codeforces account at one place with recommendations",
     image: "/achievements/devtrack.png",
     tags: ["MERN", "Rapid API", "OAuth 2.0"],
     demoUrl: "https://devtrack-eta.vercel.app/",
