@@ -159,7 +159,7 @@ export const AboutSection = () => {
 
   useEffect(() => {
     if (!inView) return;
-    const targets = [400, 3, 30];
+    const targets = [500, 5, 35];
     targets.forEach((target, i) => {
       let start = 0;
       const step = Math.ceil(target / (1800 / 16));

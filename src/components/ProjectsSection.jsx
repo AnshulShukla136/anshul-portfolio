@@ -249,7 +249,7 @@ export const ProjectsSection = () => {
             <span className="w-6 h-px bg-[#e67300]/40" />
           </div>
           <h2 className="font-display text-3xl md:text-5xl font-bold">
-            Featured <span className="text-[#e67300]">Projects</span>
+            Recent <span className="text-[#e67300]">Projects</span>
           </h2>
           <div className="w-14 h-0.5 bg-gradient-to-r from-[#e67300] to-transparent mx-auto mt-4 rounded-full" />
           <p className="font-mono text-muted-foreground mt-5 max-w-xl mx-auto text-sm">

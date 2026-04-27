@@ -122,7 +122,7 @@ export const ResumeSection = () => {
                     Anshul Shukla
                   </h3>
                   <p className="font-mono text-sm text-[#e67300]/80 mb-3 tracking-wide">
-                    Full Stack Developer · MERN Stack
+                    Full Stack Developer & Problem Solving
                   </p>
                   <p className="font-mono text-sm text-muted-foreground max-w-md leading-relaxed">
                     For more information, download resume.
