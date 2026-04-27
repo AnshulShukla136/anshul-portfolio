@@ -5,33 +5,35 @@ import PropTypes from "prop-types";
 const projects = [
   {
     id: 1,
-    title: "LPU Alumni Hub",
-    description: "An Alumni network page where people can connect to each other",
-    image: "/achievements/lpualumni.png",
-    tags: ["PHP", "TailwindCSS","AWS"],
-    demoUrl: "https://lpualumnik23df.infy.uk/",
-    githubUrl: "https://github.com/AnshulShukla136/Alumni-portal-Project1",
+    title: "FindSpot: Price Comparison app",
+    description:
+      "You can find products from different E-commerce websites so you don't need to check a product everywhere",
+    image: "/achievements/findspot.png",
+    tags: ["MERN", "REST APIs", "JWT"],
+    demoUrl: "https://findspot-black.vercel.app/",
+    githubUrl: "https://github.com/AnshulShukla136/findspot-client",
   },
   {
     id: 2,
-    title: "Flood Monitoring System",
+    title: "DevTrack: Developer Analytics Platform",
     description:
-      "Real-time flood monitoring system using IoT, GPS, and predictive analytics.",
-    image: "/achievements/floodmonitoring.png",
-    tags: ["React.js", "Express.js", "MongoDB"],
-    demoUrl: "https://flood-monitoring-system-vtnh.vercel.app/",
-    githubUrl: "https://github.com/AnshulShukla136/floodMonitoringSystem",
+      "You can analyze your GitHub, LeetCode and codeforces accounr at one place with recommendations",
+    image: "/achievements/devtrack.png",
+    tags: ["MERN", "Rapid API", "OAuth 2.0"],
+    demoUrl: "https://devtrack-eta.vercel.app/",
+    githubUrl: "https://github.com/AnshulShukla136/DevTrack",
   },
   {
     id: 3,
-    title: "Language Translator bot",
-    description:
-      "AI powered language translator bot that helps you to translate language",
-    image: "/achievements/languagetrans.png",
-    tags: ["HTML5", "CSS3", "javascript"],
-    demoUrl: "https://language-transator.vercel.app/",
-    githubUrl: "https://github.com/AnshulShukla136/Language-Transator",
+    title: "LPU Alumni Hub",
+    description: "An Alumni network page where people can connect to each other",
+    image: "/achievements/lpualumni.png",
+    tags: ["PHP", "TailwindCSS","Netlify"],
+    demoUrl: "https://lpualumnik23df.infy.uk/",
+    githubUrl: "https://github.com/AnshulShukla136/Alumni-portal-Project1",
   },
+  
+  
 ];
 
 const ProjectCard = ({ project, index, inView }) => {
