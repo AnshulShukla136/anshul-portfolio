@@ -113,10 +113,5 @@ export const Navbar = () => {
       </div>
     </nav>
   );
-<<<<<<< HEAD
-};
 
-// https://anshul-shukla.vercel.app/
-=======
 };
->>>>>>> 1bec9a37fb9a1e899830f04575b5002a17b2020b
